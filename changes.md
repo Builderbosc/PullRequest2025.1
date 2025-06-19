@@ -1,1 +1,1 @@
-The changes I made was adding a folder for answering questions for part 2 and three, and the changes in this commit include improving Part 2 Questions 1, 5 and 6, and Part 3 question 1.
+The change made with this commit is merging all changes made in the development branch into main.
